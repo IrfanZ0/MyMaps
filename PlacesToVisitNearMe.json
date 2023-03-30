@@ -1,12 +1,20 @@
 {
-  "Restaurants" : [
-    
-    
-    
-    ]
-  
-  
+  "Electronics Shops": [
+    {
+      "name": "Best Buy",
+      "address": "19929 Rinaldi Street",
+      "city": "Northridge",
+      "state": "California",
+      "zip code": "91326"
+    },
+    {
+      "name": "Target",
+      "address": "11133 Balboa Blvd",
+      "city": "Granada Hills",
+      "state": "California",
+      "zip code": "91344"
+    }
+  ]
 }
-  
 
     
